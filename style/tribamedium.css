@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+
+#glavni{
+	display: flex;
+	margin: auto;
+}
+
+.igrac{
+	width:15px;
+	height: 500px;
+	background: red;
+	margin: auto;
+}
+
+#triba{
+	display: flex;
+	margin: auto;
+}
+.batn{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 2%;
+}
+#podjela1{
+	margin-left: 25%;
+	color: red;
+}
+#podjela2{
+	color: blue;
+}
